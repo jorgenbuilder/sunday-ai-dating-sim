@@ -1,0 +1,312 @@
+# Game Design Document
+
+Title: A New Realm: Behind The Veil
+
+Synopsis: Embark on a captivating journey in "A New Realm: Behind The Veil." Forge primary love interests, engage in passionate side affairs, and build enduring friendships. Experience minigames as you progress from a humble village to a bustling market town and the political heart of a vibrant fantasy world. Unleash your destiny!
+
+This game is a dating sim that transports the player to a medieval fantasy world. It plays like a visual novel.
+
+----
+
+# High Level Plot
+
+1. Arrival in the Medieval Fantasy World:
+- The player character, known as PLAYER_NAME, is a modern woman longing for more purpose and depth in her life.
+- After a series of dreams, PLAYER_NAME wakes up in a medieval fantasy world, under a majestic tree on a grassy hill overlooking a quaint village.
+- The village becomes her new home as she embarks on a journey of self-discovery, romance, and friendship.
+
+2. Exploring the Medieval World:
+- PLAYER_NAME begins by exploring the village, working on a farm, and forging connections with the locals.
+- Through interactions and choices, she develops relationships with potential romantic partners and gains the support of friends.
+- She rises through the social ranks, eventually making her way to the bustling market town, where new relationship opportunities arise.
+
+3. The Tournament of Combat and Conflict:
+- PLAYER_NAME supports one of the love interests in a tournament of combat, showcasing her loyalty and dedication.
+- A major conflict is revealed during a grand party in the market town, impacting the relationships and dynamics among the characters.
+- PLAYER_NAME takes it upon herself to resolve the conflict and restore harmony to the realm.
+
+4. Resolving the Conflict and Settling Down:
+- With determination and the support of her allies, PLAYER_NAME confronts the source of the conflict and finds a way to resolve it.
+- She makes a choice to settle down with her chosen love interest, solidifying their bond and paving the way for a future together.
+- The love and friendships she developed throughout her journey become the pillars of her commitment to living purposefully in the modern world.
+
+5. Awakening in the Modern World:
+- PLAYER_NAME wakes up in her apartment, feeling as if she has lived a whole life in the medieval fantasy world.
+- Filled with a newfound understanding and appreciation, she realizes the lessons she learned about purpose, love, and friendship.
+- Determined to carry those lessons with her, PLAYER_NAME makes a commitment to live as authentically and purposefully as possible in the modern world, cherishing the love and friendships she cultivated in the new realm.
+
+This extended ending adds a reflective element to the story, highlighting the growth and transformation of PLAYER_NAME's character. It emphasizes the lessons she learned and her commitment to apply them to her life in the modern world, fostering a sense of purpose and fulfillment.
+
+Please note that the plot can be further developed and expanded with specific quests, challenges, and character interactions based on the desired gameplay experience.
+
+----
+
+# Primary Love Interests
+
+These are the primary characters which the player can pursue, to support in the tournament of combat and to ultimately settle down with.
+
+1. Name: Sir Roland
+   - Social Station: Knight
+   - Alignment: Lawful Good
+   - Class: Fighter
+   - Personality: Chivalrous, honorable, and disciplined. Sir Roland is known for his unwavering loyalty and sense of justice.
+   - Appearance: Tall and well-built, with a strong jawline, piercing blue eyes, and neatly trimmed blonde hair.
+   - Primary Character Flaw: A tendency to be overly self-sacrificing, often putting others' needs before his own.
+   - Greatest Strength: Exceptional swordsmanship and strategic thinking. Sir Roland is a skilled combatant, always ready to protect those in need.
+
+2. Name: Lord Alexander
+   - Social Station: Noble Lord
+   - Alignment: Lawful Neutral
+   - Class: Bard
+   - Personality: Sophisticated, charismatic, and witty. Lord Alexander is a master of words and renowned for his musical talents.
+   - Appearance: Tanned skin, dark wavy hair, and mesmerizing green eyes. He dresses in elegant, fashionable attire.
+   - Primary Character Flaw: An inclination to be manipulative at times, using his charm to achieve his own ambitions.
+   - Greatest Strength: His ability to inspire and influence people through his art and persuasive speech. Lord Alexander possesses a vast network of connections.
+
+3. Name: Julian
+   - Social Station: Scholar
+   - Alignment: Neutral Good
+   - Class: Mage
+   - Personality: Intelligent, curious, and compassionate. Julian is a dedicated scholar with a deep love for knowledge and magical arts.
+   - Appearance: Lean and graceful, with shoulder-length brown hair, glasses, and kind brown eyes. He dresses in scholarly robes and carries a tome of ancient spells.
+   - Primary Character Flaw: A tendency to become absorbed in his studies, sometimes neglecting the world and relationships around him.
+   - Greatest Strength: Proficiency in various magical disciplines. Julian possesses a wealth of arcane knowledge and can cast powerful spells to aid his allies.
+
+4. Name: Tristan
+   - Social Station: Adventurous Rogue
+   - Alignment: Chaotic Good
+   - Class: Rogue
+   - Personality: Charming, witty, and adventurous. Tristan is a roguish figure with a mischievous sense of humor and a heart of gold.
+   - Appearance: Tousled brown hair, a playful grin, and piercing hazel eyes. He wears a mix of rugged and stylish attire, always ready for adventure.
+   - Primary Character Flaw: A tendency to be impulsive and take unnecessary risks, sometimes endangering himself and others.
+   - Greatest Strength: Expertise in stealth, thievery, and agility. Tristan's nimble fingers and quick reflexes make him an exceptional asset in daring endeavors.
+
+5. Name: Damien
+   - Social Station: Enigmatic Outcast
+   - Alignment: Chaotic Neutral
+   - Class: Warlock
+   - Personality: Mysterious, brooding, and seductive. Damien is a dark and alluring figure, shrouded in secrets and possessing a powerful aura of temptation.
+   - Appearance: Tall and lean, with long raven-black hair, piercing violet eyes, and a subtle air of danger. He dresses in dark, stylish attire that accentuates his enigmatic presence.
+   - Primary Character Flaw: An inclination towards manipulation and a tendency to indulge in darker desires.
+   - Greatest Strength: Proficient in forbidden magic and possesses an innate charm that draws others towards him. Damien's powers lie in the shadows, and he is skilled at uncovering secrets.
+
+----
+
+# Side Lovers
+
+The "side quest" characters that the player can engage with for some casual fun in the small town setting:
+
+1. Name: Liam
+   - Social Station: Farm Hand
+   - Personality: Easygoing, playful, and down-to-earth. Liam has a charming sense of humor and a love for the simple pleasures of life.
+   - Appearance: Toned physique, tousled brown hair, and warm brown eyes. He often wears a worn-out shirt and denim overalls.
+   - Unique Sexual Skill: Sensual massages that can relax and pleasure his partner.
+   - Primary Allure: Liam's gentle nature and strong hands create a comforting and intimate experience, offering an escape from the stresses of the world.
+
+2. Name: Asher
+   - Social Station: Stable Hand
+   - Personality: Confident, charismatic, and passionate about horses. Asher exudes an aura of wild energy and adventure.
+   - Appearance: Tanned skin, tousled chestnut hair, and piercing green eyes. He wears practical clothing suitable for working with horses.
+   - Unique Sexual Skill: An innate connection with animals that translates into an intuitive understanding of his partner's desires and needs.
+   - Primary Allure: Asher's untamed spirit and ability to bring out the animalistic side in his partner, exploring intense pleasure and liberation.
+
+3. Name: Erik
+   - Social Station: Blacksmith
+   - Personality: Strong, silent, and skilled with his hands. Erik is a dedicated craftsman with a rugged and mysterious charm.
+   - Appearance: Muscular build, dark beard, and intense blue eyes. He typically wears a leather apron and is covered in soot.
+   - Unique Sexual Skill: Expert in the art of restraint and light bondage, creating an electrifying mix of pleasure and anticipation.
+   - Primary Allure: Erik's commanding presence and the mastery of his craft bring about a thrilling sense of surrender and trust, exploring new boundaries.
+
+4. Name: Hunter
+   - Social Station: Skilled Huntsman
+   - Personality: Independent, enigmatic, and attuned to nature. Hunter possesses a keen sense of adventure and a deep connection with the wilderness.
+   - Appearance: Athletic build, tousled blond hair, and piercing gray eyes. He wears practical hunting gear and carries a bow and quiver.
+   - Unique Sexual Skill: A heightened sensitivity to touch and an ability to create a passionate and primal connection with his partner.
+   - Primary Allure: Hunter's wild and untamed energy, combined with his intimate knowledge of the natural world, leads to an exhilarating and raw experience.
+
+5. Name: Gabriel
+   - Social Station: Talented Bard
+   - Personality: Charismatic, artistic, and enchanting. Gabriel possesses a captivating presence and a talent for weaving music and passion together.
+   - Appearance: Slender figure, long flowing hair, and captivating hazel eyes. He dresses in vibrant, flowing garments befitting a bard.
+   - Unique Sexual Skill: The ability to use music, voice, and rhythm to create a symphony of pleasure that resonates deep within his partner.
+   - Primary Allure: Gabriel's seductive melodies and the way he harmonizes physical pleasure with emotional connection, leaving a lasting impression.
+
+These "side quest" characters offer diverse personalities, appearances, and unique sexual skills, providing the player with various avenues for exploration and enjoyment within the game.
+
+----
+
+# The Cast of Friends
+
+The player can develop relationships with each of these characters. To do so, the player must learn of the friend character's struggle, and help them to resolve it. In turn, the friend character will help the player character on their journey.
+
+1. Name: Emily
+   - Social Station: Local Healer
+   - Age: 32
+   - Primary Skill: Healing and herbology
+   - Primary Struggle: Coping with the loss of her mentor and feeling overwhelmed by her responsibilities
+   - Appearance: Compassionate eyes, long chestnut hair, and a gentle demeanor. She wears simple, practical attire.
+   - Background: Emily inherited her healing skills from her grandmother and has dedicated her life to the well-being of others. She carries the weight of her mentor's teachings and strives to honor their legacy.
+   - Personality: Emily is nurturing, empathetic, and deeply compassionate. She possesses a calming presence and a genuine desire to heal both physical and emotional wounds. She is a good listener and offers a shoulder to lean on during times of distress.
+
+2. Name: Matilda
+   - Social Station: Town Historian
+   - Age: 47
+   - Primary Skill: Research and storytelling
+   - Primary Struggle: Unraveling a centuries-old mystery that has been passed down through her family for generations
+   - Appearance: Wise eyes behind spectacles, gray-streaked hair, and a bookish aura. She is often seen in scholarly robes and carries a worn leather journal.
+   - Background: Matilda's family has a rich history intertwined with the town's past. She has devoted her life to preserving and unraveling the secrets hidden within the historical archives.
+   - Personality: Matilda is wise, inquisitive, and deeply knowledgeable about the town's history. She possesses a thirst for knowledge and a passion for storytelling. Matilda enjoys engaging in intellectual conversations and unraveling mysteries, always eager to share her findings with those who appreciate the tales of the past.
+
+3. Name: Aiden
+   - Social Station: Traveling Minstrel
+   - Age: 25
+   - Primary Skill: Music and entertainment
+   - Primary Struggle: Overcoming stage fright and finding the courage to share his original compositions
+   - Appearance: Vibrant, colorful attire, a lute slung across his back, and a mischievous smile. Aiden has an aura of joy and contagious laughter.
+   - Background: Aiden comes from a family of renowned minstrels and has a natural talent for captivating audiences with his musical performances. However, his fear of judgment and stage fright have held him back.
+   - Personality: Aiden is charismatic, vivacious, and brimming with creativity. He thrives in the spotlight, using his music to evoke emotions and bring joy to those around him. Aiden has a mischievous sense of humor and a carefree spirit that draws people to his magnetic personality.
+
+4. Name: Liam
+   - Social Station: Local Farmer
+   - Age: 40
+   - Primary Skill: Farming and animal care
+   - Primary Struggle: Balancing the demands of running the farm with his desire for personal fulfillment
+   - Appearance: Strong build, calloused hands, and a warm smile. Liam wears practical clothing suitable for tending to the fields.
+   - Background: Liam has dedicated his life to working the land, ensuring a bountiful harvest for the community. He takes pride in his farm and the animals he cares for.
+   - Personality: Liam is hardworking, reliable, and possesses a deep connection with nature. He is a patient and nurturing individual, always willing to lend a helping hand. Liam has a humble demeanor and finds solace in the simplicity of life on the farm.
+
+5. Name: Helena
+   - Social Station: Local Librarian
+   - Age: 35
+   - Primary Skill: Research and knowledge organization
+   - Primary Struggle: Overcoming her shyness and fear of public speaking
+   - Appearance: Delicate features, glasses perched on her nose, and a perpetually curious expression. Helena dresses in comfortable attire, often found surrounded by books.
+   - Background: Helena has a profound love for books and learning. She has dedicated herself to curating and organizing the town's library, fostering a love for knowledge within the community.
+   - Personality: Helena is introverted, intelligent, and possesses a vast wealth of knowledge. She is a patient listener and is always ready to provide guidance or recommend the perfect book. Helena's calm and contemplative nature makes her an excellent confidant and friend.
+
+6. Name: Finn
+   - Social Station: Adventurous Traveler
+   - Age: 28
+   - Primary Skill: Survival skills and exploration
+   - Primary Struggle: Confronting his fear of commitment and settling down in one place
+   - Appearance: Lean and agile build, sun-kissed skin, and an adventurous gleam in his eyes. Finn wears rugged attire suitable for his travels.
+   - Background: Finn has spent his life exploring far-off lands, seeking thrilling adventures and the unknown. He is well-versed in survival skills and has accumulated a wealth of stories from his travels.
+   - Personality: Finn is adventurous, free-spirited, and possesses an insatiable wanderlust. He thrives on new experiences and challenges, embracing the thrill of the unknown. Finn's magnetic personality draws others to his exciting and spontaneous lifestyle.
+
+Certainly! Here are the personalities for the next three characters of the "friends cast":
+
+7. Name: Eliza
+   - Social Station: Market Town Apothecary
+   - Age: 42
+   - Primary Skill: Herbal remedies and potion-making
+   - Primary Struggle: Balancing her dedication to healing others with her own personal needs and self-care
+   - Appearance: Kind eyes, graying hair tied back in a bun, and an apron adorned with pockets filled with herbs and vials. Eliza emanates a nurturing presence.
+   - Background: Eliza has been practicing the art of herbal medicine and potion-making for many years. She is highly respected in the market town for her healing expertise and natural remedies.
+   - Personality: Eliza is wise, caring, and deeply connected to the healing properties of nature. She is a compassionate listener and provides gentle guidance to those in need. Eliza values the well-being of others and strives to create a harmonious balance in her own life.
+
+8. Name: Felix
+   - Social Station: Market Town Artist
+   - Age: 30
+   - Primary Skill: Painting and artistic expression
+   - Primary Struggle: Overcoming self-doubt and finding his artistic voice
+   - Appearance: Messy hair, vibrant eyes, and paint-splattered clothing. Felix exudes a creative and passionate aura.
+   - Background: Felix is a talented artist with a unique perspective on the world. He expresses himself through his paintings, but often grapples with his own artistic insecurities and struggles to find recognition.
+   - Personality: Felix is imaginative, sensitive, and deeply attuned to emotions. He sees the beauty in even the smallest details and finds inspiration in the everyday. Felix encourages others to embrace their creativity and shares his artistic vision with genuine enthusiasm.
+
+9. Name: Adira
+   - Social Station: Royal Court Advisor
+   - Age: 50
+   - Primary Skill: Strategic planning and diplomacy
+   - Primary Struggle: Navigating the complex dynamics of the royal court and maintaining personal integrity
+   - Appearance: Regal poise, silver-streaked hair, and a gaze that exudes wisdom. Adira dons elegant attire befitting her position at the royal court.
+   - Background: Adira has spent years serving as an advisor to the monarchy, guiding them through political challenges and offering wise counsel. She holds immense knowledge of courtly affairs and the intricacies of diplomacy.
+   - Personality: Adira is astute, composed, and possesses a sharp intellect. She values honesty and integrity above all else, striving to maintain her principles while maneuvering through the complexities of the royal court. Adira is a trusted confidant and offers invaluable insights to those who seek her guidance.
+
+10. Name: Malik
+   - Social Station: Wandering Scholar
+   - Age: 55
+   - Primary Skill: Knowledge acquisition and storytelling
+   - Primary Struggle: Overcoming a painful past and finding inner peace
+   - Appearance: Salt-and-pepper hair, a well-worn traveler's cloak, and eyes that hold a mixture of wisdom and sorrow. Malik carries a weathered satchel filled with books and scrolls.
+   - Background: Malik has traveled far and wide, seeking knowledge and collecting stories from different cultures and lands. He has experienced personal hardships but has found solace in sharing knowledge with others.
+   - Personality: Malik is introspective, knowledgeable, and carries a quiet strength. He is a great listener and imparts wisdom gained from his diverse experiences. Malik's presence is calming, and his stories have the power to inspire and offer a different perspective on life's challenges.
+
+----
+
+Open Sequence
+
+INT. PLAYER_NAME'S APARTMENT - LIVING ROOM - NIGHT
+
+PLAYER_NAME, a vibrant and independent modern woman, sits on the couch, seemingly lost in thought. The apartment is filled with the trappings of a modern city dwelling, but a sense of disquiet lingers in the air.
+
+PLAYER_NAME's gaze drifts to the cityscape beyond the window, a symphony of artificial lights and distant sounds.
+
+INTERNAL DIALOGUE - PLAYER_NAME
+(whispering)
+Is this all there is? Endless cycles of monotony, chasing after fleeting connections in a world that thrives on shallow facades. I yearn for more. More purpose. More depth. A longing for something real, something meaningful.
+
+She sighs, her face reflecting a deep longing for a life beyond the mundane.
+
+INTERNAL DIALOGUE - PLAYER_NAME
+(whispering)
+I'm tired of the skittish dance of modern love, of uncertainty and blurred lines. I crave the certainty of a bygone era, where strong, unambiguous men pursued their passions and upheld their honor. A world where chivalry and purpose were not lost to time.
+
+PLAYER_NAME's expression shows a mix of frustration and yearning, a longing for a connection that transcends the superficial.
+
+INTERNAL DIALOGUE - PLAYER_NAME
+(whispering)
+There must be more to life than this. More than the endless pursuit of material desires and societal expectations. I want to break free, to experience something extraordinary, to find a love that ignites the soul and friendships that nourish the spirit. Is it even possible in this modern world?
+
+She shakes her head, determined to find answers and seek a life that resonates with her deepest desires.
+
+INTERNAL DIALOGUE - PLAYER_NAME
+(whispering)
+There's a restlessness within me, an ache for adventure and purpose. Maybe, just maybe, there's a realm beyond the confines of this ordinary existence. A place where I can discover my true self, where connections are forged with unwavering strength and honor.
+
+As PLAYER_NAME's internal musings subside, a glimmer of hope sparkles in her eyes, fueling her determination to seek a life beyond the confines of the modern world.
+
+DISSOLVE TO:
+
+INT. PLAYER_NAME'S BEDROOM - NIGHT
+
+PLAYER_NAME lies in bed, staring at the ceiling, as the ambient city sounds seep through the window.
+
+PLAYER_NAME's eyes grow heavy, and a serene expression settles upon her face.
+
+That night, as the moon holds court high above the restless cityscape, PLAYER_NAME's mind becomes a portal to an enigmatic realm. Sleep envelops her, ushering her into a dreamscape that defies logic and comprehension. In this ethereal space, time becomes malleable, and the boundaries between realities blur.
+
+INT. DREAMSCAPE - MYSTERIOUS REALM
+
+Within the labyrinth of dreams, visions unfurl like wisps of mist. PLAYER_NAME wanders through ethereal landscapes, guided by whispers of ancient tales and echoes of forgotten legends. She encounters spectral figures draped in antiquated attire, whose eyes hold wisdom and unyielding determination.
+
+Amidst the surreal dreamscape, PLAYER_NAME's senses heighten, capturing the essence of a world long past. She is immersed in the aura of majestic knights, noble warriors whose armor gleams in the radiant sunlight. Their unwavering resolve resonates through every fiber of her being, drawing her further into the depths of this mesmerizing realm.
+
+As the dream weaves its enigmatic tapestry, PLAYER_NAME experiences profound clarity. The veil of uncertainty is lifted, revealing a yearning for the certainty and strength that seem to emanate from the men of old. The dream whispers of a world where purpose and destiny intertwine, where honor and loyalty are unwavering, and where the complexities of modern life are replaced by the resolute simplicity of a medieval realm.
+
+With the last vestiges of the dream clinging to her senses, PLAYER_NAME awakens with a start, her heart racing as she finds herself in an unfamiliar realm.
+
+UNDER THE SHADE OF A MAJESTIC TREE - GRASSY HILL - DAY
+
+Golden sunlight filters through the branches above, casting a warm glow upon the grassy hill where PLAYER_NAME finds herself. A gentle breeze dances through the air, carrying the sweet fragrance of blooming flowers and the faint whispers of enchantment.
+
+PLAYER_NAME's eyes flutter open, their gaze filled with wonder as they take in the breathtaking sight. The surrounding landscape is a picture of idyllic beauty—a rolling expanse of green hills adorned with vibrant wildflowers swaying in synchrony with the gentle breeze.
+
+Down below, nestled in the valley, lies a quaint medieval village, its thatched-roof cottages and cobblestone streets exuding an air of rustic charm.
+
+PLAYER_NAME
+(whispering)
+Where am I?
+
+They feel a sense of peace wash over them, leaving behind the weight of their former life and embracing the possibilities of this new world.
+
+On this golden, sun-kissed day, PLAYER_NAME stands atop the grassy hill, taking in the panoramic view of their new home. The medieval village hums with activity, its denizens going about their daily routines with a sense of purpose and contentment.
+
+Market stalls brim with colorful fruits, artisans diligently craft their wares, and children laugh and play in the village square. It is a scene straight out of a storybook, a place where time seems to slow down, and the cares of the modern world fade into distant memory.
+
+PLAYER_NAME's expression shifts from bewilderment to curiosity, ready to embrace the mysteries and adventures that await in this wondrous realm.
+
+With each breath of the gentle breeze, PLAYER_NAME feels the embrace of this vibrant world, beckoning them to explore, connect, and uncover the resolute strength and purpose that reside within themselves and the men who inhabit this ancient land.
+
+CUT TO BLACK.
+
+Title: A New Realm Awaits

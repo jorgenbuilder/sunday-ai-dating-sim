@@ -1,0 +1,12 @@
+{
+  "openingSequence": [
+    {
+      "id": "1",
+      "text": "Once upon a time, in a faraway land..."
+    },
+    {
+      "id": "2",
+      "text": "A modern woman found herself transported to a medieval fantasy world..."
+    }
+  ]
+}

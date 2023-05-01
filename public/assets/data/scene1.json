@@ -1,0 +1,161 @@
+{
+  "background": "background1",
+  "events": [
+    {
+      "type": "dialogue",
+      "speaker": "Internal Dialogue",
+      "text": "Is this all there is? Endless cycles of monotony, chasing after fleeting connections in a world that thrives on shallow facades."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Internal Dialogue",
+      "text": "I yearn for more. More purpose. More depth. A longing for something real, something meaningful."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "You",
+      "text": "...*sigh*"
+    },
+    {
+      "type": "setBackground",
+      "background": "background2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Internal Dialogue",
+      "text": "I'm tired of the skittish dance of modern love, of uncertainty and blurred lines."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Internal Dialogue",
+      "text": "I crave the certainty of a bygone era, where strong, unambiguous men pursued their passions and upheld their honor..."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Internal Dialogue",
+      "text": "...A world where chivalry and purpose were not lost to time."
+    },
+    {
+      "type": "setBackground",
+      "background": "background3"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Internal Dialogue",
+      "text": "I want to break free! To experience something extraordinary! To find a love that ignites the soul and friendships that nourish the spirit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Internal Dialogue",
+      "text": "...Is it even possible in this modern world?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "You",
+      "text": "(Whispers) I should go to bed..."
+    },
+    {
+      "type": "setBackground",
+      "background": "background4"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "You",
+      "text": "There's a restlessness within me, an ache for adventure and purpose. "
+    },
+    {
+      "type": "dialogue",
+      "speaker": "You",
+      "text": "Maybe, just maybe, there's a realm beyond the confines of this ordinary existence."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "You",
+      "text": "A place where I can discover my true self, where connections are forged with unwavering strength and honor."
+    },
+    {
+      "type": "setBackground",
+      "background": "background5"
+    },
+    {
+      "type": "dialogue",
+      "text": "Your musings subside as you drift off to sleep."
+    },
+    {
+      "type": "dialogue",
+      "text": "Hope glimmers within you. You are determined to seek a life beyond the confines of the modern world."
+    },
+    {
+      "type": "setBackground",
+      "background": "background6"
+    },
+    {
+      "type": "dialogue",
+      "text": "Your mind becomes a portal to an enigmatic realm!"
+    },
+    {
+      "type": "dialogue",
+      "text": "Sleep envelops you, ushering you into a dreamscape that defies logic and comprehension."
+    },
+    {
+      "type": "dialogue",
+      "text": "In this ethereal space, time becomes malleable, and the boundaries between realities blur."
+    },
+    {
+      "type": "setBackground",
+      "background": "background7"
+    },
+    {
+      "type": "dialogue",
+      "text": "Within the labyrinth of dreams, visions unfurl like wisps of mist."
+    },
+    {
+      "type": "dialogue",
+      "text": "You wander through ethereal landscapes, guided by whispers of ancient tales and echoes of forgotten legends."
+    },
+    {
+      "type": "dialogue",
+      "text": "You encounters spectral figures draped in antiquated attire, whose eyes hold wisdom and unyielding determination."
+    },
+    {
+      "type": "dialogue",
+      "text": "With the last vestiges of the dream clinging to your senses..."
+    },
+    {
+      "type": "setBackground",
+      "background": "background8"
+    },
+    {
+      "type": "dialogue",
+      "text": "...you awake!"
+    },
+    {
+      "type": "dialogue",
+      "text": "Golden sunlight filters through the branches above, casting a warm glow upon the grassy hill where you finds yourself."
+    },
+    {
+      "type": "dialogue",
+      "text": "Your gaze is filled with wonder as you take in the breathtaking sight. The surrounding landscape is a picture of idyllic beauty..."
+    },
+    {
+      "type": "dialogue",
+      "text": "A rolling expanse of green hills adorned with vibrant wildflowers swaying in synchrony with the gentle breeze."
+    },
+    {
+      "type": "dialogue",
+      "text": "Down below, nestled in the valley, lies a quaint medieval village, its thatched-roof cottages and cobblestone streets exuding an air of rustic charm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "You",
+      "text": "...Where am I?"
+    },
+    {
+      "type": "dialogue",
+      "text": "This is as far as I took my little AI experiment. Here's minigame concept where you have to harvest tubers."
+    },
+    {
+      "type": "clearAllImages"
+    }
+  ]
+}
